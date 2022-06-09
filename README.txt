@@ -1,8 +1,10 @@
 # Touch-4Games-Hack
 
-Kaliini aku akan share cheat touch 4games
+Kaliini aku akan share
+project yang saya buat yaitu
+cheat touch 4games
 Teknologi Yang di gunakan 
-C++ Dynamic Library dan Offset Untuk Write Memory
+C++ C# Dynamic Library dan Offset Untuk Write Memory
 cara penggunaan
 1.open game touch
 2.Jalankan Aplikasi Touch Autoperfect
