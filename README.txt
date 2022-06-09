@@ -21,5 +21,5 @@ how to use
 1.open touch game
 2.After loading 
 3.Run the Application cheat 
-4.If any process alert/warning Found !!!
+4.If any process alert process Found !!!
 5.Cheat is ready to use
