@@ -1,5 +1,7 @@
 # Touch-4Games-Hack
 
+NEW UPDATE UI AND Press F1 For Enable Cheat
+
 Indonesian:
 Hallo guys Kaliini aku akan share
 project yang saya buat yaitu
